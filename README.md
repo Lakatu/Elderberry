@@ -1,2 +1,2 @@
 # Elderberry
-Drupal 8 base theme for Black Elder subthemes.
+Drupal 8 production theme for dilworthcreative.com.
